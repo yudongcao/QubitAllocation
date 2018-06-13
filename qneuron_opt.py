@@ -3,9 +3,6 @@
 
 __author__ = 'Yudong Cao'
 
-import sys
-sys.path.append('../src')
-
 from qneuron import *
 from hardwaregraph import *
 
